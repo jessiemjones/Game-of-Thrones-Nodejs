@@ -3,7 +3,7 @@
 
 1.  Clone the repo:
 
-        https://github.com/jessiemjones/Collision-Detection-Physics-Simulation.git
+        https://github.com/jessiemjones/Game-of-Thrones-Nodejs.git
 
 2.  Install dependencies:
 
